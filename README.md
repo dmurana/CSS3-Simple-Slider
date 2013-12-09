@@ -3,6 +3,8 @@ CSS3-Simple-Slider
 
 A simple slideshow code using CSS3 and JQuery
 
+NOTE: Initially CSS3 was used for the transition, then was changed to JQuery.
+
 License
 -------
 
