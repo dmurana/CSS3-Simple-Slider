@@ -3,10 +3,11 @@ CSS3-Simple-Slider
 
 A simple slideshow code using CSS3 and JQuery
 
-LICENSE
-=======
+License
+-------
 
-The code of CSS3-Simple-Slider is licensed under GPLv3. 
-You can see it in LICENSE file.
+CSS3-Simple-Slider code is licensed under GPLv3. See the LICENSE file for details.
 
-JQuery library is licensed under MIT License.
+Image files are licensed under CC-BY 3.0.
+
+JQuery library is licensed under MIT license.
